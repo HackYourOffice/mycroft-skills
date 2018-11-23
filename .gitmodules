@@ -159,4 +159,4 @@
 	url = https://github.com/HackYourOffice/skill-smartbeer
 [submodule "skill-klima"]
 	path = skill-klima
-	url = git@github.com:HackYourOffice/skill-klima.git
+	url = https://github.com/HackYourOffice/skill-klima.git
