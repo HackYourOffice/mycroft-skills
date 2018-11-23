@@ -154,3 +154,6 @@
 [submodule "wikiquote"]
 	path = wikiquote
 	url = https://github.com/danielwine/wikiquote-skill
+[submodule "skill-smartbeer"]
+	path = skill-smartbeer
+	url = https://github.com/HackYourOffice/skill-smartbeer
