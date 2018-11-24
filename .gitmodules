@@ -160,3 +160,6 @@
 [submodule "skill-klima"]
 	path = skill-klima
 	url = https://github.com/HackYourOffice/skill-klima.git
+[submodule "skill-fallback-fart"]
+	path = skill-fallback-fart
+	url = https://github.com/HackYourOffice/skill-fallback-fart.git
